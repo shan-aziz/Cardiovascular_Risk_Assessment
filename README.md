@@ -7,7 +7,9 @@ A machine learning-powered web app for assessing cardiovascular risk based on he
 **🔗 Live Demo:** *[Add link if deployed]*  
 **📓 Notebook:** [`Cardio_Analysis.ipynb`](Cardio_Analysis.ipynb)
 
-![App Screenshot](screenshot.png)
+![Screenshot 2025-04-19 013550](https://github.com/user-attachments/assets/f5aba421-eb7a-480d-b9f9-5f8d63b0adec)
+![Screenshot 2025-04-19 013631](https://github.com/user-attachments/assets/486969ad-cc01-4bac-8399-d5cc49d0f00d)
+
 
 ---
 
